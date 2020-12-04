@@ -6,7 +6,7 @@ body{
 
 .navbar{
     max-height: 50px; 
-	background-color: #9dc2f3; 
+	background-color: #b6b2ec; 
     font-size: 15px; 
 }
 
@@ -15,7 +15,7 @@ body{
 	margin-left: 50px; 
 	padding: inherit; 
 	font-weight: bold; 
-	background-color: #38ab87;
+	background-color: #389aab;
 	font-family: Georgia, Times, "Times New Roman", serif;
 }
 
@@ -35,7 +35,7 @@ body{
 /* Media Queries */
 @media (max-width: 991.98px){
 .navbar-expand-lg{
-	background-color: #38ab87;
+	background-color: #389aab;
 }
 .navbar{
     max-height: none; 
@@ -76,7 +76,7 @@ button:focus {
 .description-header, .imageNav-header {
 	padding-top: 15px; 
 	padding-left: 4px;
-	color: #38ab87;
+	color: #389aab;
 	font-size: 26px;
 	font-weight: bold;
 	font-family: Georgia, Times, "Times New Roman", serif;
@@ -84,7 +84,7 @@ button:focus {
 
 img{
 	width: 100%;
-	height: 100%;
+	height: 100%;	
 }
 
 .description-image {
@@ -109,7 +109,7 @@ p{
 	background-color: #505251; 
     border-top-style: solid; 
     border-top-width: 4px; 
-    border-top-color: #38ab87;
+    border-top-color: #389aab;
     color: white; 
     min-height: 50px; 
     font-family: Arial, Helvetica, sans-serif;
