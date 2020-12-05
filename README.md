@@ -4,6 +4,10 @@ Often, we hear people say that the best weather conditions are found closer to t
 
 The visualizations were used to create a web dashboard using HTML and CSS. In building this dashboard, individual pages were created for each plot with a means by which one can navigate between them. These pages contain the visualizations and their corresponding explanations. Also, there is a landing page, a page where one can see a comparison of all the plots, and another page containing the data used to create them. 
 
+<p align="center">
+  <img width="900" height="500" src="https://github.com/leslievazquez/Web_Design_Challenge/blob/main/Resources/screenshots/landing_page.png">
+</p>
+
 ### Website Details:
 
 The website consists of 7 pages total, including:
