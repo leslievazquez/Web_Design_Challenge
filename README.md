@@ -1,4 +1,6 @@
-<h1 align ="center"><span>Latitude Analysis</br>Web Dashboard</span></h1>   
+<h1 align ="center"><span>Latitude Analysis</br>Web Dashboard</span></h1> 
+
+*URL to Web Dashboard: https://leslievazquez.github.io/Web_Design_Challenge/index.html*
 
 Often, we hear people say that the best weather conditions are found closer to the equator. But can that be proven? To answer the question, a list of 500+ cities was extrapolated on 12/01/2020 from OpenWeatherMap API using a series of successive API calls. After collecting the data, Matplotlib was used to create scatterplots to visualize the effect the distance from the equator has on the temperature (F), humidity %, cloudiness %, and wind speed (mph) of these cities.
 
