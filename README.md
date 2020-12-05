@@ -27,5 +27,5 @@ The website consists of 7 pages total, including:
   
 - A ["Data" page] that:
   - Displays a responsive table containing the data used in the visualizations.
-    -- The table uses a bootstrap table component.
-    -- The data comes from exporting the .csv file as HTML, or converting it to HTML using Pandas. Pandas has a nifty method appropriately called 'to_html' that allows one to generate a HTML table from a pandas dataframe. 
+    - The table uses a bootstrap table component.
+    - The data comes from exporting the .csv file as HTML, or converting it to HTML using Pandas. Pandas has a nifty method appropriately called 'to_html' that allows one to generate a HTML table from a pandas dataframe. 
